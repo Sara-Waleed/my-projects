@@ -1,3 +1,3 @@
 # my-projects
-##project notes
+## project notes
 
